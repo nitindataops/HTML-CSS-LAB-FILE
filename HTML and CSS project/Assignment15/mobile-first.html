@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!-- Name: Nitin Kumar | Roll: BCS2025601 | Assignment 15 | Task 1 -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mobile First</title>
+  <style>
+    .card {
+      border: 1px solid gray;
+      border-radius: 8px;
+      padding: 12px;
+      margin-bottom: 12px;
+      background-color: #eef2ff;
+    }
+    @media (min-width: 600px) {
+      .cards {
+        display: flex;
+        gap: 12px;
+      }
+      .card {
+        flex: 1;
+        margin-bottom: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="cards">
+    <div class="card">
+      <h2>Card One</h2>
+      <p>This card stacks on a phone.</p>
+    </div>
+    <div class="card">
+      <h2>Card Two</h2>
+      <p>This card sits beside the first one on a wide screen.</p>
+    </div>
+  </div>
+</body>
+</html>

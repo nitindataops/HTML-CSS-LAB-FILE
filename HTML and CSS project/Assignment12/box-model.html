@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<!-- Name: Nitin Kumar | Roll: BCS2025601 | Assignment 12 | Task 1 -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Box Model</title>
+  <style>
+    .box {
+      width: 200px;
+      padding: 20px;
+      border: 5px solid navy;
+      background-color: lightyellow;
+      margin-bottom: 15px;
+    }
+    .first {
+      box-sizing: content-box;
+    }
+    .second {
+      box-sizing: border-box;
+    }
+  </style>
+</head>
+<body>
+  <div class="box first">content-box: total width 250px</div>
+  <div class="box second">border-box: total width 200px</div>
+</body>
+</html>
