@@ -1,239 +1,245 @@
-# HTML & CSS Introduction Lab
+# 🌐 HTML AND CSS PROJECT
 
-```{=html}
 <p align="center">
-```
-`<strong>`{=html}BCS352 · B.Tech Computer Science & Engineering · 3rd
-Semester`</strong>`{=html}`<br>`{=html} Practical Lab Record and Web
-Development Exercises
-```{=html}
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
+
+<p align="center">
+  <b>HTML & CSS Practical Assignments and Lab Work</b>
+  <br>
+  B.Tech Computer Science & Engineering | 3rd Semester
+</p>
+
+---
+
+## 📌 About The Project
+
+Welcome to my **HTML and CSS Project Repository!**
+
+This repository contains my practical assignments and laboratory work completed as part of the **HTML and CSS Introduction Lab (BCS352)** during my B.Tech in Computer Science and Engineering.
+
+The purpose of this repository is to understand the fundamentals of web development through practical implementation.
+
+It covers HTML elements, webpage structures, forms, tables, CSS styling, layouts, Flexbox, Grid, responsive design, and Git/GitHub fundamentals.
+
+Every assignment represents my learning progress and practical implementation of front-end web development concepts.
+
+---
+
+## 👨‍🎓 Student Details
+
+| Field | Details |
+|---|---|
+| **Name** | Nitin Kumar |
+| **Roll Number** | BCS2025601 |
+| **Course** | B.Tech |
+| **Branch** | Computer Science & Engineering |
+| **Semester** | 3rd Semester |
+| **Section** | B |
+| **Subject** | HTML and CSS Introduction Lab |
+| **Subject Code** | BCS352 |
+| **Submitted To** | Mr. Nitish Sir |
+
+---
+
+## 📂 Repository Structure
+
+```text
+HTML and CSS project/
+│
+├── Assignment3/
+├── Assignment4/
+├── Assignment5/
+├── Assignment6/
+├── Assignment7/
+├── Assignment8/
+├── Assignment9/
+├── Assignment10/
+├── Assignment11/
+├── Assignment12/
+├── Assignment13/
+├── Assignment14/
+├── Assignment15/
+│
+├── html-lab/
+├── html-remote/
+│
+├── HTML_and_CSS_Lab_File_Nitin_Kumar.docx
+├── HTML_and_CSS_Lab_File_Nitin_Kumar.pdf
+│
+└── README.md
 ```
 
-------------------------------------------------------------------------
+### 📁 Folder Overview
 
-## About the Project
+| Folder / File | Description |
+|---|---|
+| `Assignment3` – `Assignment15` | Practical assignment files |
+| `html-lab` | HTML laboratory work |
+| `html-remote` | HTML remote repository practical |
+| `.docx` File | Practical lab documentation |
+| `.pdf` File | PDF version of lab documentation |
+| `README.md` | Repository documentation |
 
-This repository contains the practical work completed for the **HTML and
-CSS Introduction Lab (BCS352)**. It covers the fundamentals of Git and
-GitHub workflow, HTML page structure, common HTML elements, forms,
-tables, CSS styling, layout techniques, and responsive web design.
+---
 
-The exercises are organized as 15 experiments. Each experiment focuses
-on a specific concept and includes practical tasks that can be run in a
-web browser.
+## 📚 Practical Experiments
 
-## Student Details
+The lab file covers the following experiments:
 
-  Detail         Information
-  -------------- ------------------------------------------
-  Student Name   **Nitin Kumar**
-  Roll / ID      **BCS2025601**
-  Course         B.Tech -- Computer Science & Engineering
-  Semester       3rd Semester
-  Section        B
-  Subject        HTML and CSS Introduction Lab
-  Subject Code   BCS352
-  Submitted To   Mr. Nitish Sir
+| No. | Experiment | Topics |
+|:---:|---|---|
+| 01 | Starting a Git Repository | Git initialization |
+| 02 | Pushing and Cloning a Repository | GitHub and repository management |
+| 03 | Your First HTML Page | HTML document structure |
+| 04 | Divs, Attributes and a Small Fix | Div elements and attributes |
+| 05 | Links and Images | Hyperlinks and images |
+| 06 | Types of HTML Lists | Ordered and unordered lists |
+| 07 | About Me Page | Personal webpage |
+| 08 | Sign-Up Forms and Choices | HTML forms and input elements |
+| 09 | Tables with Headers and Footers | HTML tables |
+| 10 | CSS Fundamentals | CSS selectors and properties |
+| 11 | Units and CSS Variables | CSS units and variables |
+| 12 | Box Model, Cards and Scrolling | Margin, padding, border and overflow |
+| 13 | Flexbox Layouts | Flexible layouts |
+| 14 | CSS Grid Layouts | Grid-based layouts |
+| 15 | Responsive Pages with Media Queries | Responsive web design |
 
-## Experiments Covered
+---
 
-  ------------------------------------------------------------------------
-                           No. Experiment            Main Concepts
-  ---------------------------- --------------------- ---------------------
-                            01 Starting a Git        `git init`, Git
-                               Repository            configuration,
-                                                     staging, commits,
-                                                     status and log
+## 🛠️ Technologies Used
 
-                            02 Pushing and Cloning a Remote repositories,
-                               Repository            `git remote`,
-                                                     `git push` and
-                                                     `git clone`
+### Languages
+- **HTML5:** Used to create the structure and content of webpages.
+- **CSS3:** Used to style webpages and create attractive layouts.
 
-                            03 Your First HTML Page  HTML5 structure,
-                                                     headings, paragraphs
-                                                     and text formatting
+### Tools
+- **Visual Studio Code:** Code editor.
+- **Google Chrome:** Browser for testing webpages.
+- **Git:** Version control system.
+- **GitHub:** Platform for hosting and managing repositories.
 
-                            04 Divs, Attributes and  `div`, class, id,
-                               a Small Fix           data attributes and
-                                                     fixing HTML errors
+---
 
-                            05 Links and Images      Anchor links, `href`,
-                                                     images, `src`,
-                                                     dimensions and `alt`
-                                                     text
+## 🚀 How to Run
 
-                            06 Types of HTML Lists   Ordered lists,
-                                                     unordered lists,
-                                                     nested lists and
-                                                     description lists
+Follow these steps to access and run the project on your computer.
 
-                            07 About Me Page         Semantic elements,
-                                                     navigation, sections,
-                                                     footer and email
-                                                     links
+### Step 1: Clone the Repository
 
-                            08 Sign-Up Forms and     Labels, input fields,
-                               Choices               password, radio
-                                                     buttons, dropdowns
-                                                     and validation
-
-                            09 Tables with Headers   Tables, captions,
-                               and Footers           `thead`, `tbody`,
-                                                     `tfoot` and `scope`
-
-                            10 CSS Fundamentals      Inline, internal and
-                                                     external CSS;
-                                                     selectors and text
-                                                     styling
-
-                            11 Units and CSS         `px`, `%`, `rem`, CSS
-                               Variables             custom properties and
-                                                     `var()`
-
-                            12 Box Model, Cards and  Box sizing, margins,
-                               Scrolling             padding, borders,
-                                                     cards and overflow
-
-                            13 Flexbox Layouts       Navigation bars,
-                                                     alignment, centred
-                                                     cards and wrapping
-
-                            14 CSS Grid Layouts      Grid columns, `fr`,
-                                                     responsive galleries
-                                                     and named grid areas
-
-                            15 Responsive Pages with Mobile-first design,
-                               Media Queries         viewport, media
-                                                     queries and
-                                                     responsive
-                                                     images/text
-  ------------------------------------------------------------------------
-
-## Technologies and Tools
-
--   **HTML5** -- structure and content of web pages.
--   **CSS3** -- styling, spacing, layouts and responsive design.
--   **Git** -- version control and tracking project changes.
--   **GitHub** -- hosting and sharing the repository.
--   **Visual Studio Code** -- writing and editing code.
--   **Google Chrome** -- running and testing the web pages.
-
-## Getting Started
-
-### 1. Clone the repository
-
-Open a terminal and run:
-
-``` bash
-git clone <repository-url>
+```bash
+git clone YOUR_GITHUB_REPOSITORY_LINK
 ```
 
-Replace `<repository-url>` with the HTTPS or SSH URL of this repository.
+### Step 2: Open the Project Folder
 
-### 2. Open the project
+```bash
+cd "HTML and CSS project"
+```
 
-``` bash
-cd <repository-folder>
+### Step 3: Open in Visual Studio Code
+
+```bash
 code .
 ```
 
-You can also open the folder directly in Visual Studio Code.
+### Step 4: Run HTML Files
 
-### 3. Run an HTML file
+1. Open the required assignment folder.
+2. Find the HTML file.
+3. Open it in Google Chrome.
+4. View the webpage and its output.
 
-1.  Open the required `.html` file in Visual Studio Code.
-2.  Save your changes.
-3.  Open the file in Google Chrome (right-click → **Open with** →
-    **Google Chrome**).
-4.  Refresh the browser after making changes.
+---
 
-No build process or package installation is required for these basic
-HTML and CSS exercises.
+## 💡 Key Concepts Covered
 
-## Suggested Project Structure
+Throughout these assignments, I have worked with:
 
-The exact filenames and folders may differ depending on how the
-practical files are arranged. A convenient structure is:
+- HTML document structure.
+- HTML tags, elements and attributes.
+- Div and semantic elements.
+- Hyperlinks and images.
+- Ordered, unordered and description lists.
+- HTML forms and input fields.
+- HTML tables.
+- CSS selectors and properties.
+- CSS units and variables.
+- CSS Box Model.
+- Flexbox layouts.
+- CSS Grid.
+- Responsive design using Media Queries.
+- Git and GitHub commands.
 
-``` text
-HTML-and-CSS-Lab/
-│
-├── README.md
-│
-├── Experiment-01-Git/
-├── Experiment-02-Git-Remote/
-├── Experiment-03-First-HTML-Page/
-├── Experiment-04-Divs-and-Attributes/
-├── Experiment-05-Links-and-Images/
-├── Experiment-06-HTML-Lists/
-├── Experiment-07-About-Me/
-├── Experiment-08-Forms/
-├── Experiment-09-Tables/
-├── Experiment-10-CSS-Fundamentals/
-├── Experiment-11-CSS-Units-and-Variables/
-├── Experiment-12-Box-Model/
-├── Experiment-13-Flexbox/
-├── Experiment-14-CSS-Grid/
-└── Experiment-15-Responsive-Design/
-```
+---
 
-## Useful Git Commands
+## 🎯 Learning Objectives
 
-Use these commands from the project folder:
+The main objectives of this project are:
 
-``` bash
+1. To understand the fundamentals of HTML and CSS.
+2. To create structured webpages using HTML.
+3. To apply styling using CSS.
+4. To design layouts using Flexbox and Grid.
+5. To understand responsive web design.
+6. To develop practical front-end development skills.
+7. To learn version control using Git and GitHub.
+
+---
+
+## 🔄 Git Commands Used
+
+Some commonly used Git commands for managing this repository:
+
+```bash
 # Check repository status
 git status
 
-# Stage all modified and new files
+# Add all changes
 git add .
 
-# Save changes in a commit
-git commit -m "Update HTML and CSS lab work"
+# Commit changes
+git commit -m "Updated HTML and CSS assignments"
 
-# Check commit history
-git log --oneline
-
-# View configured remote repositories
-git remote -v
-
-# Push the current branch to origin
+# Push changes to GitHub
 git push origin main
+
+# Pull latest changes
+git pull origin main
+
+# Clone a repository
+git clone YOUR_GITHUB_REPOSITORY_LINK
 ```
 
-If your branch is named `master` instead of `main`, use `master` in the
-push command.
+---
 
-## Learning Outcomes
+## 🙏 Acknowledgement
 
-After completing these experiments, the student should be able to:
+I would like to express my sincere gratitude to **Mr. Nitish Sir** for his guidance and support throughout this practical course.
 
--   Create and manage a Git repository and understand basic remote
-    workflows.
--   Build web pages using standard HTML elements.
--   Organize content with lists, links, images, forms and tables.
--   Use semantic HTML elements to give page sections meaningful
-    structure.
--   Apply CSS through inline, internal and external stylesheets.
--   Work with CSS units, variables, the box model and overflow.
--   Create layouts using Flexbox and CSS Grid.
--   Make web pages adapt to different screen sizes using media queries.
--   Open, test and debug basic web pages in a browser.
+I am also thankful to my university and department for providing the opportunity to learn and implement web development concepts through practical assignments.
 
-## Acknowledgement
+These experiments helped me improve my understanding of HTML, CSS, and basic web development.
 
-I would like to thank **Mr. Nitish Sir** for guidance and support during
-the HTML and CSS Introduction Lab practical work.
+---
 
-------------------------------------------------------------------------
+## 👨‍💻 About Me
 
-```{=html}
+**Nitin Kumar**
+
+🎓 B.Tech Computer Science & Engineering  
+📚 3rd Semester | Section B  
+💻 Interested in Programming and Web Development
+
+I am continuously learning new technologies and improving my programming and development skills through practical projects and assignments.
+
+---
+
 <p align="center">
-```
-`<strong>`{=html}Submitted by Nitin Kumar`</strong>`{=html}`<br>`{=html}
-B.Tech CSE · 3rd Semester · Section B`<br>`{=html} Roll / ID: BCS2025601
-```{=html}
+  <b>⭐ Thank You for Visiting My Repository! ⭐</b>
+  <br><br>
+  <i>Learning Today • Building Tomorrow</i>
 </p>
-```
